@@ -20,7 +20,7 @@ class App extends Component {
             <code>src/App.js</code> has been deleted!!!
           </p>
           <p>
-            PR preview
+            PR preview 2
           </p>
           <a
             className="App-link"
