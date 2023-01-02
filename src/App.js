@@ -19,6 +19,9 @@ class App extends Component {
           <p>
             <code>src/App.js</code> has been deleted!!!
           </p>
+          <p>
+            PR preview
+          </p>
           <a
             className="App-link"
             href="https://reactjs.org"
